@@ -1,0 +1,75 @@
+body{
+    background:url('demon.jpg') no-repeat;
+    display: flex;
+    background-size: cover;
+    color: rgba(240, 248, 255, 0.878);
+    min-height: 85vh;
+    justify-content: center;
+    align-items: center;
+
+}
+h1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+h4{
+    text-align: center;
+    font-size: x-large;
+}
+.for {
+    border: 2px solid;
+    padding: 20px 70px;
+    border-radius: 10px;
+    align-items: center;
+    backdrop-filter: blur(5px);
+    font-size: large;
+    text-align: left;
+    
+
+    
+}
+.for .for1{
+    border: 1px solid;
+    padding:10px 5px  20px;
+    border-radius: 10px;
+    font-size: xx-large;
+    
+}
+.for .for2{
+    border: 1px solid;
+    padding:5px 5px 20px;
+    border-radius: 10px;
+    font-size: xx-large;
+}
+.for .for3{
+    border: 1px solid;
+    padding:20px 5px 20px;
+    border-radius: 10px;
+    font-size: xx-large;
+}
+
+.for button{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgba(209, 56, 122, 0.528);
+    color: aliceblue;
+    padding:11px
+}
+.for .for4{
+    padding-left: 36%;
+    padding-top:5% ;
+}
+.for1 input{
+    padding: 10px 50px 10px;
+    
+}
+.for2 input{
+    padding: 10px 50px 10px;
+}
+.for3 input{
+    padding: 10px 50px 10px;
+}

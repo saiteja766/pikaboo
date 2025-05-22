@@ -1,0 +1,103 @@
+body{
+    
+    background-color: black;
+    backdrop-filter: blur(20px);
+    color: hsl(0, 25%, 98%);
+    background: url('solo2.jpg');
+    background-size: cover;
+    
+    
+}
+h1 {
+    color: hwb(55 9% 9%);
+    border: 1PX solid;
+    font-size: large;
+    text-align: center;
+    background: black;
+    font-size: xx-large;
+    
+
+    
+}
+a{
+    border: 1px solid;
+    text-align: left;
+    background-color: rgba(7, 7, 7, 0.715);
+    color: hwb(46 5% 6%);
+    font-size: x-large;
+}
+p{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.span .caption{
+    background-color: black;
+}
+tbody{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+caption{
+    text-align: center;
+    background-color: rgb(246, 238, 9);
+}
+img{
+    padding:0px 100px 0px;
+    border-radius: 50%;
+    border: 5px solid;
+    background-color: hwb(48 0% 3%);
+}
+table{
+    border-radius: 10px;
+    border:solid(10px);
+    background-color: rgb(19, 227, 231);
+    font-size: 35px;
+}
+video{
+    border-radius: 5%;
+    border: 5px solid;
+    padding:0px 100px 0px ;
+    background-color: rgba(16, 165, 234, 0.327);
+}
+
+.wrapper .btn{  
+text-align: center;
+width: 100%;
+height: 20%;
+font-weight: 600;
+border-radius: 100px;
+padding: px 5%;
+}
+.wrapper .btn .you{
+    font-size:xx-large;
+    font-weight: 700;
+    background: #ececec;
+    cursor: pointer;
+}
+.wrapper .btn .you1{
+    font-weight: 3000;
+    border: 5px solid;
+    border-radius: 10px;
+    padding: 0px 110px 0px;
+ cursor: pointer;
+}
+h2  {
+    background-color: lab(82.01% -1.17 82.54);
+    color: black;
+}
+.wrapper h1{
+    box-sizing: content-box;
+}
+.wrapper .btn h3{
+    font-size: larger;
+}
+.wrapper h4  {
+    color: rgb(55, 240, 228);
+    font-size: large;
+    text-decoration: underline;
+}
+.wrapper .you2{
+    font-size: xx-large;
+    
+}
+.wrapper input{
+    cursor: pointer;
+}

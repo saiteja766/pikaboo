@@ -1,0 +1,109 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: url('demon1.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: aliceblue;
+
+}
+
+h4 {
+    padding: 5PX;
+    text-decoration: underline;
+    font-size: small;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    border: 1px solid;
+    background-color: rgba(0, 0, 0, 0.499);
+    border-radius: 10px;
+    justify-content: center;
+    font-size: medium;
+    align-items: center;
+    text-align: center;
+
+}
+
+.registration-form {
+    position: absolute;
+    border-radius: 50px;
+    border: 2px solid;
+    padding: 20px;
+    backdrop-filter: blur(3px);
+    position: relative;
+}
+
+.registration-form .regi {
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50px;
+
+}
+
+.registration-form .regi .btn {
+    border-radius: 10px;
+    font-size: large;
+    cursor: pointer;
+    background: rgba(216, 19, 78, 0.368);
+}
+
+.registration-form .name1 {
+    border: 1px solid;
+    margin: 3%;
+    padding: 2%;
+    border-radius: 20px;
+
+
+}
+
+.registration-form .name {
+    border: 1px solid;
+    margin: 3%;
+    padding: 2%;
+    border-radius: 20px;
+
+}
+
+.registration-form .mail {
+    border: 1px solid;
+    margin: 3%;
+    padding: 2%;
+    border-radius: 20px;
+
+}
+
+.registration-form .password {
+    border: 1px solid;
+    margin: 3%;
+    padding: 2%;
+    border-radius: 20px;
+
+}
+
+.name1 input {
+
+    border-radius: 10px;
+
+
+}
+
+.name input {
+
+    border-radius: 10px;
+}
+
+.mail input {
+
+    border-radius: 10px;
+}
+
+.password input {
+
+    border-radius: 10px;
+}
